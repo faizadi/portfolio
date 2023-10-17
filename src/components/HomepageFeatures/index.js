@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'About Me',
+    Svg: require('@site/static/img/undraw_profile_re_4a55.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Currently work at <code>WIKA</code> - Managing ERP (Enterprise Resource Planning) Application.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'My Contact',
+    Svg: require('@site/static/img/undraw_agreement_re_d4dv.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Reach me at <a href="mailto:faizadiwicaksono@hotmail.com">faizadiwicaksono@hotmail.com</a>.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Skills',
+    Svg: require('@site/static/img/undraw_programming_re_kg9v.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+         <code>SAP-Project System</code> <code>SAP-Material Management</code> <code>ERP</code> <code>SQL Database</code> <code>PHP</code> <code>CSS</code> <code>Java Script</code> .
       </>
     ),
   },

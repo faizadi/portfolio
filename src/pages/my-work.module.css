@@ -1,11 +1,11 @@
-.features {
+.openSource {
   display: flex;
   align-items: center;
   padding: 2rem 0;
   width: 100%;
 }
 
-.featureSvg {
-  height: 180px;
-  width: 180px;
+.openSourceSvg {
+  height: 145px;
+  width: 145px;
 }
